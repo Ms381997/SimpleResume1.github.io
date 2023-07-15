@@ -1,0 +1,51 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+  }
+  .box{
+    
+    width: 210mm;
+    height: 297mm;
+    margin: 0 auto;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    padding: 5%;
+   
+  }
+  
+  h1{
+    font-family: 'Lilita One', cursive;
+    font-size: 50px;
+    /* padding: 3% 2%; */
+   text-align: end;
+  }
+  
+  .Cv{
+    font-family: 'Lilita One', cursive;
+    font-family: 'Roboto', sans-serif;
+    padding:0 2%;
+    text-align: end;
+    font-size: large;
+  
+  
+  }
+  
+  .Heading{
+    font-size: larger;
+  }
+  
+  .Tskill{
+    display: flex;
+    justify-content: space-between;
+  }
+  
+  .Sskill{
+    display: flex;
+    justify-content: space-between;
+  }
+  
+  #personal{
+    display: flex;
+    justify-content: space-around;
+  }
+  
